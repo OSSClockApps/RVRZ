@@ -1,0 +1,39 @@
+#hours {
+  fill: white;
+}
+
+#mins {
+  fill: gray;
+}
+
+#mid {
+  fill: #444444;
+}
+
+.lbl {
+  fill: white;
+}
+
+#top{
+  x: 50%;
+  y: 10%;
+  text-anchor: middle;
+}
+
+#left{
+  x: 5%;
+  y: 51%;
+  text-anchor: middle;
+}
+
+#right{
+  x: 95%;
+  y: 51%;
+  text-anchor: middle;
+}
+
+#bot{
+  x: 50%;
+  y: 95%;
+  text-anchor: middle;
+}

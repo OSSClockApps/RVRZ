@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "fitbit": {
+    "appUUID": "ab92a945-7d70-403e-89d4-0818ec520a1d",
+    "appType": "clockface",
+    "appDisplayName": "Rvrz",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Rvrz"
+      },
+      "de-DE": {
+        "name": "Rvrz"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

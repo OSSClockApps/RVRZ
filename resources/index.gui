@@ -1,0 +1,13 @@
+<svg viewport-fill="#111111">
+  <g id="mins" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="$-4" y="-90" width="8" height="90"/>
+  </g>
+  <g id="hours" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="$-6" y="-75" width="10" height="75" />
+  </g>
+  <circle id="mid" cx="50%" cy="50%" r="8" />
+  <text id="top" class="lbl">12</text>
+  <text id="right" class="lbl">9</text>
+  <text id="bot" class="lbl">6</text>
+  <text id="left" class="lbl">3</text>
+</svg>
