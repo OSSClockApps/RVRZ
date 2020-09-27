@@ -1,4 +1,19 @@
 <svg viewport-fill="#111111">
+  <g transform="translate(50%, 50%)">
+    <g><line y1="-45%" y2="-50%" class="tick red"/></g>
+    <g transform="rotate(30)"><line y1="-45%" y2="-50%" class="tick" /></g>
+    <g transform="rotate(60)"><line y1="-45%" y2="-50%" class="tick" /></g>
+    <g transform="rotate(90)"><line y1="-45%" y2="-50%" class="tick" /></g>
+    <g transform="rotate(120)"><line y1="-45%" y2="-50%" class="tick" /></g>
+    <g transform="rotate(150)"><line y1="-45%" y2="-50%" class="tick" /></g>
+    <g transform="rotate(180)"><line y1="-45%" y2="-50%" class="tick" /></g>
+    <g transform="rotate(210)"><line y1="-45%" y2="-50%" class="tick" /></g>
+    <g transform="rotate(240)"><line y1="-45%" y2="-50%" class="tick" /></g>
+    <g transform="rotate(270)"><line y1="-45%" y2="-50%" class="tick" /></g>
+    <g transform="rotate(300)"><line y1="-45%" y2="-50%" class="tick" /></g>
+    <g transform="rotate(330)"><line y1="-45%" y2="-50%" class="tick" /></g>
+  </g>
+  
   <g id="mins" pointer-events="visible" transform="translate(50%,50%)">
     <rect x="$-4" y="-90" width="8" height="90"/>
   </g>

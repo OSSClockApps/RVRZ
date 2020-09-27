@@ -1,3 +1,14 @@
+.tick {
+  x1: 0;
+  x2: 0;
+  stroke-width: 2;
+  fill: #00AAFF;
+}
+
+.red{
+  fill: red;
+}
+
 #hours {
   fill: white;
 }
@@ -12,28 +23,29 @@
 
 .lbl {
   fill: white;
+  font-size: 25;
 }
 
 #top{
-  x: 50%;
-  y: 10%;
+  x: 50%+2;
+  y: 12%;
   text-anchor: middle;
 }
 
 #left{
-  x: 5%;
-  y: 51%;
+  x: 5%+12;
+  y: 51%+6;
   text-anchor: middle;
 }
 
 #right{
-  x: 95%;
-  y: 51%;
+  x: 95%-12;
+  y: 51%+6;
   text-anchor: middle;
 }
 
 #bot{
   x: 50%;
-  y: 95%;
+  y: 95%-8;
   text-anchor: middle;
 }
