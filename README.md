@@ -1,4 +1,4 @@
-[![](https://img.shields.io/github/license/OSSClockApps/MinimalistClockFace.svg)](https://github.com/OSSClockApps/MinimalistClockFace/blob/master/LICENSE) 
+[![](https://img.shields.io/github/license/OSSClockApps/RVRZ.svg)](https://github.com/OSSClockApps/RVRZ/blob/master/LICENSE) 
 
 
 # RVRZ
