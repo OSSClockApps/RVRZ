@@ -45,7 +45,19 @@
 }
 
 #bot{
-  x: 50%;
+  x: 50%+2;
   y: 95%-8;
   text-anchor: middle;
+}
+
+#data{
+  font-size: 15;
+}
+
+#heartRate{
+  x: 30%;
+  y: 38%;
+  text-length: 3;
+  text-anchor: begin;
+  fill: firebrick;
 }
