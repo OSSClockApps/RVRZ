@@ -13,10 +13,7 @@
     <g transform="rotate(300)"><line y1="-45%" y2="-50%" class="tick" /></g>
     <g transform="rotate(330)"><line y1="-45%" y2="-50%" class="tick" /></g>
   </g>
-  <svg>
-     <text id="heartRate">--</text>
-     <image x="20%" y="30%" height="25" width="25" href="heart_rate.png" />
-  </svg>
+  
 
 
   <g id="mins" pointer-events="visible" transform="translate(50%,50%)">
@@ -32,6 +29,11 @@
   <text id="right" class="lbl">9</text>
   <text id="bot" class="lbl">6</text>
   <text id="left" class="lbl">3</text>
+  
+  <svg>
+     <text id="heartRate">--</text>
+     <image x="20%" y="30%" height="25" width="25" href="heart_rate.png" />
+  </svg>
   
   
 </svg>
